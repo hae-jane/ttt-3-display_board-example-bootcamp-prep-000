@@ -8,4 +8,3 @@ def display_board
   puts "-----------"
   puts "  |   |  " 
 end
-puts "A Tic Tac Toe Board"
